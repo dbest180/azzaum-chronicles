@@ -1,5 +1,5 @@
-# LOG_083: ESHUA THE BENEVOLENT
-**Status:** Canonical Archive // Project Codex
+# ESHUA THE BENEVOLENT
+**Status:** Canonical Archive // AZZAUM Codex
 **Designation:** The Healer / The Resurrected
 **Age:** Age of Presence (Middle East / Levant)
 
