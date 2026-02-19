@@ -3,11 +3,8 @@
 
 <template>
   <div class="home">
-    <h1>Project Codex: The Archives</h1>
+    <h1>AZZAUM: Chronicles Of The Ancients</h1>
     <p>Select a topic from the sidebar to begin.</p>
-    <router-link to="/wiki/javascript">View JavaScript Notes</router-link>
-    <p><router-link to="/wiki/vue">Vue Notes</router-link></p>
-    <p><router-link to="wiki/markdown">View Markdown Notes</router-link></p>
   </div>
 </template>
 
